@@ -8,8 +8,13 @@ git/*
 java/*
 !java/企业及互联网项目_NETCTOSS_IMAGE版.pdf
 
+#linux
+!linux
+linux/*
+!linux/Advanced Bash-Scripting Guide.epub
+!linux/Advanced Bash-Scripting Guide.pdf
+!linux/An in-depth exploration of the art of shell scripting.pdf
 
-linux/
 make/
 php/
 !/PHP参考手册.pdf
