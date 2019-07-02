@@ -41,8 +41,13 @@ php/*
 PlantUML/*
 !PlantUML_Language_Reference_Guide_ZH.pdf
 
+#PyQt5
+!PyQt5
+PyQt5/*
+!PyQt5/PyQt5 Tutorial Documentation Release 1.0.pdf
+!PyQt5/Rapid GUI Programming with Python and Qt.pdf
 
-pyqt5/
+#python
 python/
 ruby/
 web/
