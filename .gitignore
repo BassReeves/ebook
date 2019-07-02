@@ -5,7 +5,6 @@ git/*
 java/
 linux/
 make/
-perl/
 php/
 !/PHP参考手册.pdf
 PlantUML/
