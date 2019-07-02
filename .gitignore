@@ -20,10 +20,17 @@ linux/*
 make/*
 !make/跟我一起写Makefile.pdf
 
-
-php/
+#php
+!php
+php/*
 !/PHP参考手册.pdf
-PlantUML/
+
+#PlantUML
+!PlantUML
+PlantUML/*
+!PlantUML_Language_Reference_Guide_ZH.pdf
+
+
 pyqt5/
 python/
 ruby/
