@@ -61,8 +61,19 @@ python/*
 ruby/*
 !ruby/Ruby_Programming_向Ruby之父学程序设计_第2版.pdf
 
+#web
+!web
+web/*
+!web/\[黑客攻防技术宝典Web实战篇\].Dafydd.Stuttard.第2版中文高清版.pdf
+!web/HTML5.pdf
+!web/JavaScript高级程序设计（第3版）中文 高清 完整 详细书签版.pdf
+!web/OWASP Top 10 2017.pdf
+!web/OWASP 测试指南 V3.0.pdf
+!web/OWASP 测试指南 V4.0.pdf
+!web/SQL注入自学指南.pdf
+!web/Web前端黑客技术揭秘.pdf
 
-web/
+
 Windows/
 中国传世经典/
 加密解密/
