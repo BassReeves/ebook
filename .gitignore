@@ -1,8 +1,14 @@
+#git
 !git
 git/*
 !git/Git基础系列-12.docx
 
-java/
+#java
+!java
+java/*
+!java/企业及互联网项目_NETCTOSS_IMAGE版.pdf
+
+
 linux/
 make/
 php/
