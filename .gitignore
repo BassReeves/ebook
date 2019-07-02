@@ -48,7 +48,14 @@ PyQt5/*
 !PyQt5/Rapid GUI Programming with Python and Qt.pdf
 
 #python
-python/
+!python
+python/*
+!python/Black Hat Python.pdf
+!python/crossin-Py基础系列-62.docx
+!python/Python+Requests+Essentials.pdf
+!python/Python灰帽子.pdf
+!python/violent-py.pdf
+
 ruby/
 web/
 Windows/
