@@ -20,6 +20,13 @@ linux/*
 make/*
 !make/跟我一起写Makefile.pdf
 
+#PE
+!PE
+PE/*
+!PE/PE文件结构详解_超详细_C代码.doc
+!PE/PE结构图.jpg
+
+
 #php
 !php
 php/*
