@@ -41,6 +41,12 @@ php/*
 PlantUML/*
 !PlantUML_Language_Reference_Guide_ZH.pdf
 
+#powershell
+!powershell
+powershell/*
+!powershell/Windows PowerShell实战指南（第2版）.zip
+!powershell/windows_powershell_3.0_step_by_step.zip
+
 #PyQt5
 !PyQt5
 PyQt5/*
@@ -55,6 +61,7 @@ python/*
 !python/Python+Requests+Essentials.pdf
 !python/Python灰帽子.pdf
 !python/violent-py.pdf
+!python/Python自动化运维：技术与最佳实践.epub
 
 #ruby
 !ruby
@@ -73,8 +80,22 @@ web/*
 !web/SQL注入自学指南.pdf
 !web/Web前端黑客技术揭秘.pdf
 
+#Windows
+!Windows
+Windows/*
+!Windows/操作系统精髓与设计原理  第8版.zip
+!Windows/深入解析Windows操作系统_第6版.zip
 
-Windows/
+#Windows API
+!Windows
+Windows/*
+!Windows/win32-api.pdf
+!Windows/windows API 一日一练1.pdf
+!Windows/Windows API一日一练2.pdf
+!Windows/Windows Programming.pdf
+!Windows/Windows95 程序设计.pdf
+
+
 中国传世经典/
 加密解密/
 大数据/
