@@ -85,12 +85,6 @@ web/*
 !web/SQL注入自学指南.pdf
 !web/Web前端黑客技术揭秘.pdf
 
-#Windows
-!Windows
-Windows/*
-!Windows/操作系统精髓与设计原理  第8版.zip
-!Windows/深入解析Windows操作系统_第6版.zip
-
 #Windows API
 !Windows
 Windows/*
@@ -99,9 +93,6 @@ Windows/*
 !Windows/Windows API一日一练2.pdf
 !Windows/Windows Programming.pdf
 !Windows/Windows95 程序设计.pdf
-
-
-中国传世经典/
 
 #加密解密
 !加密解密
@@ -127,6 +118,9 @@ Windows/*
 !新概念英语第四册/新概念英语第四册超全.pdf
 !新概念英语第四册/新概念英语第四册全翻译.doc
 
+中国传世经典/
 算法导论/
+逆向工程核心原理/
+Windows/
 
 drag.txt
