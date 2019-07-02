@@ -15,7 +15,12 @@ linux/*
 !linux/Advanced Bash-Scripting Guide.pdf
 !linux/An in-depth exploration of the art of shell scripting.pdf
 
-make/
+#make
+!make
+make/*
+!make/跟我一起写Makefile.pdf
+
+
 php/
 !/PHP参考手册.pdf
 PlantUML/
