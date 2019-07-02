@@ -56,7 +56,12 @@ python/*
 !python/Python灰帽子.pdf
 !python/violent-py.pdf
 
-ruby/
+#ruby
+!ruby
+ruby/*
+!ruby/Ruby_Programming_向Ruby之父学程序设计_第2版.pdf
+
+
 web/
 Windows/
 中国传世经典/
