@@ -68,10 +68,18 @@ python/*
 !python/violent-py.pdf
 !python/Python自动化运维：技术与最佳实践.epub
 
+#Qt5
+!Qt5
+Qt5/*
+
 #ruby
 !ruby
 ruby/*
 !ruby/Ruby_Programming_向Ruby之父学程序设计_第2版.pdf
+
+#smali
+!smali
+smali/*
 
 #web
 !web
